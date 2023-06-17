@@ -1,3 +1,6 @@
 [submodule "web/frontend"]
 	path = web/frontend
 	url = https://github.com/Shopify/shopify-frontend-template-react.git
+[submodule "Vernon-Shopify-Frontend"]
+	path = Vernon-Shopify-Frontend
+	url = https://github.com/UBCO-COSC-499-Summer-2023/Vernon-Shopify-Frontend.git
